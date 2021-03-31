@@ -1,5 +1,5 @@
 #Backend web dev
-Uses HTML CSS JS along with PHP. 
-This is totally a backend program for form filling
+Uses HTML CSS JS along with server side PHP. 
+This is totally a backend program for form filling in this the major complexity revolves in maintaing the links between country state and city select tag. 
 
  
